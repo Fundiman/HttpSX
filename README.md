@@ -21,3 +21,7 @@ To use httpsx, follow these steps:
 1. You can use HttpSX anywhere but you must give credit to me for use
 2. The code is allowed to be modified
 3. Personal use and Business use is allowed
+
+## Download:
+
+[HttpSX.v1.zip](https://github.com/user-attachments/files/16414095/HttpSX.v1.zip)
